@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cins Apartment Management System Server", "Cins Apartment Management System Server\Cins Apartment Management System Server.csproj", "{F75C004B-6BFC-461D-813D-4A20708085EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F75C004B-6BFC-461D-813D-4A20708085EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F75C004B-6BFC-461D-813D-4A20708085EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F75C004B-6BFC-461D-813D-4A20708085EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F75C004B-6BFC-461D-813D-4A20708085EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0979893-933C-4C77-AED5-51DE6671408A}
+	EndGlobalSection
+EndGlobal
