@@ -1,6 +1,6 @@
 This project has been developed based on a given assignment. 
 The assigned task is as follows:
-https://acrobat.adobe.com/id/urn:aaid:sc:AP:783ce0a7-98e4-4b72-ba2d-c6a1ded49c3e
+https://github.com/ergulferik/Apartment-Management-System/blob/main/Ceng-NetProg-Final%20Hmw-Apartmant%20Management%20System-221229.pdf
 
 A detailed report has been prepared regarding the developed project. You are required to review the report for usage information and the purpose of the project. 
 The prepared report:
