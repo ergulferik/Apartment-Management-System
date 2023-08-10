@@ -237,7 +237,7 @@ namespace Cins_Apartment_Management_System_Server
             }
 
 
-            string APIKey = "a1e27152d07c199e4dbf29b0827e119d";
+            string APIKey = //API
             WebClient web = new WebClient();
             string url = string.Format("https://api.openweathermap.org/data/2.5/weather?q=manisa&units=metric&appid={0}", APIKey);
 
